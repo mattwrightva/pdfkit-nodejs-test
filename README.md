@@ -1,5 +1,5 @@
 # Testing for PDFKit using NodeJS
-## Documentation for PDFKit (NodeJS) here:
+## Documentation for PDFKit (NodeJS)
 https://pdfkit.org/
 ## To run
 1. Install dependencies `npm install`
