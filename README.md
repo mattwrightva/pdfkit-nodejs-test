@@ -1,5 +1,4 @@
 # Testing for PDFKit using NodeJS
-===
 Documentation for PDFKit (NodeJS) here:
 https://pdfkit.org/
 ===
